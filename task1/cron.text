@@ -1,0 +1,1 @@
+* * * * * /home/zain/Desktop/DevOps-A3/task1/backup_and_upload.sh >> /home/zain/Desktop/DevOps-A3/task1/logfile.log 2>&1
